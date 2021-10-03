@@ -1,0 +1,16 @@
+h1{
+    color:black;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+form{
+    size:40px;
+}
+
+textarea{
+    background-color: goldenrod;
+}

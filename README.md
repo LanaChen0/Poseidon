@@ -12,6 +12,13 @@ Through protected whales and forests, it can reduce almost 200M tons of carbon.
 Poseidon can notice fire forests before they burned, and find  best locations for reservoirs.
 Poseidon can point out the routes of whales swimming, to avoid accidental injury by ships.
 
+## Install:
+
+pip freeze > requirements.txt #display packages
+
+pip install -r requirements.txt #install essentials
+
+## Poseidon tool:
 
 ### Poseidon default opened on localhost:5000 (or 127.0.0.1:5000 or your_ip:5000)
 

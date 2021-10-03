@@ -1,6 +1,11 @@
 # 2021 NASA Hackathon
 ## CHALENGES: No.24 WARMING: THINGS ARE HEATING UP!
 ## Author: Chia-Lin,Chen(陳佳琳), Meng-Chuan, Lee(李孟娟)
+
+##30secs video is here: https://www.youtube.com/watch?v=SaAA0qIJpa0
+
+##2mins video is here: https://www.youtube.com/watch?v=BAonsE3p2JE
+
 ## Description:
 
 The motivation is saving sea turtles, whose extinct are dominated by temperature. 

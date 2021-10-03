@@ -10,6 +10,7 @@ To reduce it, we have two ideas, saving whales and forests.
 Through protected whales and forests, it can reduce almost 200M tons of carbon.
 
 Poseidon can notice fire forests before they burned, and find  best locations for reservoirs.
+(Reservoirs can not only extinguishing but also keep place wet)
 Poseidon can point out the routes of whales swimming, to avoid accidental injury by ships.
 
 ## Install:

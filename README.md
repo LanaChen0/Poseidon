@@ -55,13 +55,13 @@ Folders:
 
 	|-template
 
-	|-homepage.html
+		|-homepage.html
 
-	|-base.html
+		|-base.html
 
-	|-xxx.html #all extends by base.html
+		|-xxx.html #all extends by base.html
 
-	|-result_xxx.html # display folium maps
+		|-result_xxx.html # display folium maps
 
 	|-static
 
@@ -77,3 +77,4 @@ Folders:
 		
 		|-chromedriver # Selenium chrome driver
     
+		|-dataset

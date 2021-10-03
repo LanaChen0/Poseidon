@@ -1,0 +1,8 @@
+import flask==1.1.2
+import folium==0.12.1
+import random==1.1.1
+
+import pandas==1.0.4
+import numpy==1.18.1
+
+import re==2020.7.14

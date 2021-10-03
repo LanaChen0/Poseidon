@@ -1,12 +1,27 @@
 # 2021 NASA Hackathon
 ## CHALENGES: No.24 WARMING: THINGS ARE HEATING UP!
-### Author: Chia-Lin,Chen(陳佳琳), Meng-Chuan, Lee(李孟娟)
+## Author: Chia-Lin,Chen(陳佳琳), Meng-Chuan, Lee(李孟娟)
 
 
+### Poseidon default opened on localhost:5000 (or 127.0.0.1:5000 or your_ip:5000)
 
-#### Develop Environment: MacBook Pro 2019(13''), Mac OS 11.6
-#### Coding Language: Python(3.6.10), HTML, CSS
+http://localhos:5000/homepage
+![image](homepage.png)
 
+http://localhost:5000/result_Reservoirs
+![image](reservoir.png)
+
+http://localhost:5000/FireForests
+![image](sendMail.png)
+
+http://localhost:5000/Whales
+![image](whalesRoute.png)
+
+
+* #### Develop Environment: MacBook Pro 2019(13''), Mac OS 11.6
+* #### Coding Language: Python(3.6.10), HTML, CSS
+
+Folders:
 
 	root
 	

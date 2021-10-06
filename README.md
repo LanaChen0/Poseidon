@@ -20,15 +20,13 @@ Poseidon can point out the routes of whales swimming, to avoid accidental injury
 
 ## Install:
 
-pip freeze > requirements.txt #display packages
-
 pip install -r requirements.txt #install essentials
 
 ## Poseidon tool:
 
 ### Poseidon default opened on localhost:5000 (or 127.0.0.1:5000 or your_ip:5000)
 
-1. localhos:5000/homepage
+1. localhos:5000
 
 ![image](homepage.png)
 

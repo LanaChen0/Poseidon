@@ -1,7 +1,7 @@
 <p float="left">
 <img src="homepage.png" width="1000"/>
-<img src="reservoir.png" width="500"/>
-<img src="sendMail.png" width="500"/>
+<img src="reservoir.png" width="300"/>
+<img src="sendMail.png" width="300"/>
 <p>
 
 # 2021 NASA Hackathon
